@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgba(248, 249, 253,1);
+    height: 100vh;
+}
+main{
+    height:557px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+
+}
+.header{
+    background-color: rgb(62, 87, 219);
+    padding: 30px 20px;
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
